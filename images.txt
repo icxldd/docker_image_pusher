@@ -1,1 +1,1 @@
-livekit/livekit-server:latest
+livekit/livekit-server
