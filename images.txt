@@ -2,3 +2,4 @@ livekit/livekit-server
 redis
 livekit/egress
 livekit/livekit-server:master
+redis/redis-stack:latest
